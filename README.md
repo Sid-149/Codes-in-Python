@@ -1,2 +1,2 @@
-# Python_Practice
-This repository contains the codes to my Python Practice.
+# Codes in Python
+This repository contains some basic codes in Python.
